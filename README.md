@@ -1,14 +1,17 @@
-# <My Portfolio>
+# <WorkDay Schedulero>
 
 ## Description
 
-- This is a Portfolio where I will eventually add work I have completed throughout the bootcamp course, Right now there are just placeholders. This project was built to showcase my work to future employer and demosontrate potential projects that can help with job search. I learned how to use HTML, CSS, and advanced CSS to complete this portfolio.
+ The  Workday Scheduler is a planner that allows users to create and manage events for each hour of a typical working day, from 9am to 5pm. The application updates its HTML and CSS using jQuery and utilizes the Day.js library for date and time functionality.The motivation behind this project was to create a user-friendly tool for individuals to efficiently plan their workdays. As users scroll down, they encounter time blocks representing each hour from 9am to 5pm. These time blocks are color-coded to differentiate between past, present, and future hours. Which stores the event text in local storage. This ensures that even after refreshing the page, the events are saved. Through this project, I gained experience in working with date and time manipulation using the Day.js library. I also learned about utilizing local storage to retain data across page refreshes, enhancing the user experience.
 
 
-## Usage
-To create a future portfolio for future employers that shares information of about me.
+## License
+MIT License
+
+Copyright (c) [2023] [Clarisa Gonzalez]
+
 
 
 ## Credits
-Igor Pryelpskyi (Tutor)
+Starter code provided by XANDROUS
 
